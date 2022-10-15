@@ -12,5 +12,11 @@
     <string name="AboutUsSubTiTle">Estudiante</string>
     <string name="AboutUsBrief" translatable="false">cironidas@gmail.com</string>
     <string name="AboutUsGithub" translatable="false">https://github.com/Cirglorfin</string>
+    <string name="End1EJ">"El jugador "</string>
+    <string name="End1NHHEN">no ha hacertado el número (</string>
+    <string name="End1APDHT">) a pesar de haber tenido</string>
+    <string name="End1I">intento</string>
+    <string name="End2HHEN">ha hacertado el número</string>
+    <string name="End2E">en</string>
 
 </resources>

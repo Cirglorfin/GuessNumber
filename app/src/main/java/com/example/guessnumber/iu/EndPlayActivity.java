@@ -48,14 +48,12 @@ public class EndPlayActivity extends AppCompatActivity {
 
         if (bundle.getInt("restantes")==0)
         {
-            String texto1="El jugador " + juego.getNombre() +
-                " no ha hacertado el " +
-                "número (" + bundle.getInt("número") + ") " +
-                "a pesar de haber tenido "+juego.getIntentos()+" intento"+s;
+            String texto1=getString(R.string.End1EJ)+" " + juego.getNombre() +" "+
+                getString(R.string.End1NHHEN) + " "+bundle.getInt("número") +" "+ getString(R.string.End1APDHT)+" "+juego.getIntentos()+" "+getString(R.string.End1I)+s;
             info.setText(texto1);
         }
         else {
-            String texto2="El jugador " + juego.getNombre() + " ha hacertado el número " + bundle.getInt("número") + " en " + bundle.getInt("intentos") + " intento"+s;
+            String texto2=getString(R.string.End1EJ)+" " + juego.getNombre() +" "+ getString(R.string.End2HHEN)+" " + bundle.getInt("número") +" "+ getString(R.string.End2E) +" "+ bundle.getInt("intentos") +" "+getString(R.string.End1I)+s;
             info.setText(texto2);
         }
         Log.d(TAG,"EndPlayActivity -> onCreate()");
