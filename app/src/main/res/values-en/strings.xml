@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">GuessNumber</string>
-    <string name="etPlayerHint">Insert your name</string>
+    <string name="etPlayerHint">Enter your player name</string>
     <string name="btJugarText">Let\'s play</string>
 
-    <string name="etIntentosHint">Insert the number of attepts</string>
+    <string name="etIntentosHint">Enter the number of attepts</string>
     <string name="txTitulo">Guess the number</string>
-    <string name="tvIntroTexto">Insert the number:</string>
+    <string name="tvIntroTexto">Enter the number:</string>
     <string name="btnProbarText">Try</string>
     <string name="aboutus">About us...</string>
     <string name="AboutUsSubTiTle">Student</string>
@@ -16,4 +16,7 @@
     <string name="End1I">attempt</string>
     <string name="End2HHEN">has guessed the number</string>
     <string name="End2E">in</string>
+    <string name="Play2ENIEM">The entered number is greater than the number to guess</string>
+    <string name="Play1NIM">The number entered is less than the number to guess</string>
+    <string name="PlayIN">Enter a number</string>
 </resources>

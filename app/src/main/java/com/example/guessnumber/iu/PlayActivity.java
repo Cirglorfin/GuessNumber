@@ -55,7 +55,7 @@ public class PlayActivity extends AppCompatActivity {
         }
         catch (Exception e)
         {
-            tvAyuda.setText("Introduce un número");restantes+=1;
+            tvAyuda.setText(R.string.PlayIN);restantes+=1;
             intentosh-=1;
         }
         if (restantes==0||num==numP){
@@ -63,10 +63,10 @@ public class PlayActivity extends AppCompatActivity {
         }
         if (numP<num)
         {
-            tvAyuda.setText("El número introducido es menor");
+            tvAyuda.setText(R.string.Play1NIM);
         }
         if (numP>num)
-        {tvAyuda.setText("El número introducido es mayor");}
+        {tvAyuda.setText(R.string.Play2ENIEM);}
         etNum.setText("");
     }
 

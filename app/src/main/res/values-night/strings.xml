@@ -19,4 +19,7 @@
     <string name="End1I">intento</string>
     <string name="End2HHEN">ha hacertado el número</string>
     <string name="End2E">en</string>
+    <string name="Play1NIM">El número introducido es menor</string>
+    <string name="Play2ENIEM">El número introducido es mayor</string>
+    <string name="PlayIN">Introduce un número</string>
 </resources>
