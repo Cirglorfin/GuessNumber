@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="etPlayerHint">Insert your name</string>
+    <string name="btJugarText">Let\'s play</string>
+
+    <string name="etIntentosHint">Insert the number of attepts</string>
+    <string name="txTitulo">Guess the number</string>
+    <string name="tvIntroTexto">Insert the number:</string>
+    <string name="btnProbarText">Try</string>
+    <string name="aboutus">About us...</string>
+    <string name="AboutUsSubTiTle">Student</string>
+</resources>

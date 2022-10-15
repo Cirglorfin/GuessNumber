@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="etPlayerHint">Introduce tu nombre</string>
+    <string name="btJugarText">¡A jugar!</string>
+    <string name="etIntentosHint">Introduce el número de intentos</string>
+    <string name="txTitulo">Adivina el número</string>
+    <string name="tvIntroTexto">Introduce el número:</string>
+    <string name="btnProbarText">Probar</string>
+<string name="aboutus">Sobre nosotros...</string>
+
+    <string name="AboutUsName" translatable="false">Ciro León Espinosa Avilés</string>
+    <string name="AboutUsSubTiTle">Estudiante</string>
+    <string name="AboutUsBrief" translatable="false">cironidas@gmail.com</string>
+    <string name="AboutUsGithub" translatable="false">https://github.com/Cirglorfin</string>
+
+</resources>
